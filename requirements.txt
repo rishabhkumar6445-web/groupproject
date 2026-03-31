@@ -1,8 +1,7 @@
-groupproject/
-├── .streamlit/
-├── data/
-├── utils/
-├── .gitignore
-├── README.md
-├── app.py
-└── requirements.txt     ← THIS MUST BE HERE
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+lifetimes
+openpyxl
