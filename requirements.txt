@@ -1,0 +1,8 @@
+groupproject/
+├── .streamlit/
+├── data/
+├── utils/
+├── .gitignore
+├── README.md
+├── app.py
+└── requirements.txt     ← THIS MUST BE HERE
